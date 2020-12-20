@@ -25,8 +25,6 @@
         
     </head>
     <body>
-        
-        <h1>Redirecionando...</h1>
-
+    
     </body>
 </html>
